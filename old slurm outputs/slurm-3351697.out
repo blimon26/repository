@@ -1,0 +1,2 @@
+/var/spool/slurm/d/job3351697/slurm_script: line 19: syntax error near unexpected token `newline'
+/var/spool/slurm/d/job3351697/slurm_script: line 19: `ls ccbb_projects/ latest_nature_paper/ > '
